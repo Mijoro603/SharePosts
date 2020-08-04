@@ -17,4 +17,7 @@
 - LOGO (public/img/logo/logo.png)
   + Replace file logo.png with an image that you like. It's should be in 1x1 scale and .png format.
 
-# THAT'S IT #
+# My develop  #
+
+**Start**
+
